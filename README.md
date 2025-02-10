@@ -101,3 +101,8 @@ limitations under the License.
 
 ![Paypal](https://github.com/adityaarora1/LiveEdgeDetection/blob/master/paypal_qr.gif)
 
+# Badge
+
+[![](https://jitpack.io/v/mathispezet/LiveEdgeDetection.svg)](https://jitpack.io/#mathispezet/LiveEdgeDetection)
+
+
